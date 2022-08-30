@@ -1,0 +1,3 @@
+C:\Users\bdagg\Documents\Wpf Tutorial\Resources\obj\Debug\net6.0-windows\Resources.csproj.AssemblyReference.cache
+C:\Users\bdagg\Documents\Wpf Tutorial\Resources\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\bdagg\Documents\Wpf Tutorial\Resources\obj\Debug\net6.0-windows\Resources_MarkupCompile.cache

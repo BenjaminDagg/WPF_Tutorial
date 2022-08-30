@@ -1,0 +1,26 @@
+﻿
+    <!-- Window
+       x:Class tells XAML which class file to use
+        -window can only have 1 child control so its good to have a panel which can hold many children
+        -ResizeMode
+            -CanResize allows user to resize window
+            -CanMinimize lets users minimize window but not maximize or resize
+            -NoResize = min/max buttons are removed and window cant be resized
+        -ShowInTaskbar
+        -SizeToContent - default no but can make width/height or both
+        -TopMost - default false
+        -StartupLocation - default manual, other options are centerOwner, centerscreen
+        -WindowState - default window state: normal, minimuzed, mazimized
+    -->
+    <Window x:Class="TheWindow.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TheWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+    </Grid>
+</Window>
