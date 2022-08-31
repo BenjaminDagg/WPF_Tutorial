@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xgPLbwits0sBBPqSCdwqrraN83qYgJMKsqxPvhH5i0G7WjXGsMF+l2eqlNHAObG4P3UhcHHFrIEkDnS68AZJ0Q==",
+  "dgSpecHash": "iRDvixZnCp6LwaEEoMJ/ZTq0Lwr+2vO8dVdfDwc0Fh+ygHXCeX8P6G1JUDUKCjIBSFH9/U00sPGj/nzh/6grDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bdagg\\Documents\\Wpf Tutorial\\HelloWpf\\HelloWpf.csproj",
+  "projectFilePath": "C:\\Users\\Ben\\Documents\\WPF Tutorial\\HelloWpf\\HelloWpf.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

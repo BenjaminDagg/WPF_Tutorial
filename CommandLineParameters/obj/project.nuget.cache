@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T18v/3r+WigQPOw8xvMt3hLijxYwHoIjYO+5IRORmwRN1uwk9i1hm5Nvl3zJyq3gRN5wCH+FzN27I9Kv9s57Sw==",
+  "dgSpecHash": "k6xoQPClN8OrBuyzQ1i4gngQ/V3irdDzFKd8YtBVanc1HsJsorffyn5Ll8icLcDReig5cqNKWShfyWxLTUQ3HQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bdagg\\Documents\\Wpf Tutorial\\CommandLineParameters\\CommandLineParameters.csproj",
+  "projectFilePath": "C:\\Users\\Ben\\Documents\\WPF Tutorial\\CommandLineParameters\\CommandLineParameters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

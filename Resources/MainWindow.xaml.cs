@@ -25,5 +25,18 @@ namespace Resources
         {
             InitializeComponent();
         }
+
+
+        /*
+         * Find Resources defined in Application (1st),window (2nd), and local (Panel, 3rd)
+         * If resource isn't found in local level, it looks in window, if not found in window it looks in application
+         * The same isn't true for the opposite, if resource isn't found in application it doesn't look down
+         */
+        private void btnClickMe_Click(object sender, RoutedEventArgs e)
+        {
+            lbResult.Items.Add(Application.Current.FindResource("ApplicationLevelResource").ToString());
+            lbResult.Items.Add(this.FindResource("strWindow").ToString());
+            lbResult.Items.Add(pnlMain.FindResource("panelResource").ToString());
+        }
     }
 }

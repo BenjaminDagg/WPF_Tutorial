@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4itTalpgkAGLcTvLEJDU1UUUfvE+qSBqaoVHLIm/dReL0/m8L1hb/UyBk0KJd4gOxAZGZYOdHWfMbi5eVZecgQ==",
+  "dgSpecHash": "MP7NsGqApaJSLRdqfjygWr0eifMg5rhz6GuXM/JqFz1Kw5c8mqOyuFi9H4GBzhx6HgldZqm/7Brx0i4LQIAygg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bdagg\\Documents\\Wpf Tutorial\\TheWindow\\TheWindow.csproj",
+  "projectFilePath": "C:\\Users\\Ben\\Documents\\WPF Tutorial\\TheWindow\\TheWindow.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

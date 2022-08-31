@@ -1,0 +1,28 @@
+﻿<Window x:Class="TextBlock.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextBlock"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="250">
+    <StackPanel>
+        <TextBlock>This is a TextBlock</TextBlock>
+        <TextBlock Text="TextBlock with Text property"/>
+        
+        <Label FontWeight="Bold">No Wrapping</Label>
+        <TextBlock Margin="10">This is a TextBlock control and it comes with a very long text.</TextBlock>
+        
+        <Label FontWeight="Bold">Line Break</Label>
+        <TextBlock Foreground="Red" Margin="10">This is a TextBlock control and it comes <LineBreak/> with a very long text.</TextBlock>
+
+        <Label FontWeight="Bold">Character Elipsis</Label>
+        <TextBlock Foreground="Green" TextTrimming="CharacterEllipsis" Margin="10">This is a TextBlock control and it comes with a very long text.</TextBlock>
+
+        <Label FontWeight="Bold">Word Elipsis</Label>
+        <TextBlock Foreground="Purple" TextTrimming="WordEllipsis" Margin="10">This is a TextBlock control and it comes with a very long text.</TextBlock>
+
+        <Label FontWeight="Bold">Text Wrap</Label>
+        <TextBlock Foreground="Blue" Margin="10" TextWrapping="Wrap">This is a TextBlock control and it comes with a very long text.</TextBlock>
+    </StackPanel>
+</Window>
